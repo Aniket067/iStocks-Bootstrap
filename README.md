@@ -1,0 +1,3 @@
+# iStocks-Bootstrap
+Tried to create a website using Bootstrap.
+iStocks is a responsive website built using Bootstrap that provides users with up-to-date stock market information and cryptocurrency news. The website offers a user-friendly interface where visitors can access real-time stock data, track their favorite stocks, and stay informed about the latest developments in the cryptocurrency world. With its sleek design and intuitive navigation, iStocks aims to empower users with the knowledge they need to make informed investment decisions. Whether you are a seasoned investor or just getting started, iStocks is your go-to platform for all things related to stocks and cryptocurrencies.
